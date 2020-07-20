@@ -11,16 +11,21 @@
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
+Entities used throughout the essay.
 
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
+Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
 
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
+static
 title="Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/commons/2/2a/Tidal_basin_cherry_blossom_closeup.JPG"
        fit="cover"
+       region="pct:25,25,50,50"
        attribution="Wikimedia Commons">
+This declaration only once within the preceding paragraph. (Can also do directly in-line.) "Cover" fit forces entire space to be taken up entirely by the image. "Contain" tries to  fit entire image, based on shortest edge. Region defines specific area in  x% in, y% in (example above accomplishes middle region)."Static" declaration prevents user from zooming on image within essay. Only clicking will open zoomable IIIF viewer.
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
