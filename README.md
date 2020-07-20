@@ -26,6 +26,8 @@ title="Tidal basin cherry blossom" url="https://upload.wikimedia.org/wikipedia/c
        region="pct:25,25,50,50"
        attribution="Wikimedia Commons">
 This declaration only once within the preceding paragraph. (Can also do directly in-line.) "Cover" fit forces entire space to be taken up entirely by the image. "Contain" tries to  fit entire image, based on shortest edge. Region defines specific area in  x% in, y% in (example above accomplishes middle region)."Static" declaration prevents user from zooming on image within essay. Only clicking will open zoomable IIIF viewer.
+<param ve-map primary center="Q61">
+"primary" attribute makes item default view;  i.e. default is map rather than image.
 
 Below is the code for adding a map. The center of the map can be set with longitude and latitude, or with a relevant Wikidata QID. This map also uses a pre-made geojson overlay through Wikidata. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="Q17" zoom="5" basemap="Esri_WorldPhysical">
