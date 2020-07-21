@@ -18,6 +18,12 @@ Code to add a location with a custom marker on a map for every paragraph in this
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
 
+Insert GIF Test.
+<param ve-image
+title="Watermelon gif"
+url="https://media3.giphy.com/media/yeMg2ckHHvrOw/giphy.gif"
+fit="contain">
+
 Paragraph text-Paste the text for the first paragraph in your narrative here. Below is the code for adding a simple image. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-image
 static
