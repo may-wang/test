@@ -20,7 +20,6 @@ Entity referred to only in this ## section (including in ### child sections). Ap
 
 Insert GIF Test.
 <param ve-image
-static="true"
 title="Watermelon gif"
 url="https://media3.giphy.com/media/yeMg2ckHHvrOw/giphy.gif"
 fit="contain">
