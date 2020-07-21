@@ -18,7 +18,7 @@ Code to add a location with a custom marker on a map for every paragraph in this
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
 
-Insert GIF Test.
+Insert GIF Test. This watermelon displays a common fear of losing seeds, aka hair.
 <param ve-image
 title="Watermelon gif"
 url="https://media3.giphy.com/media/yeMg2ckHHvrOw/giphy.gif"
