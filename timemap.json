@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "date": "1000"
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": ""
@@ -18,7 +19,8 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "date": "1500"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -29,7 +31,8 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "date": "2000"},
       "geometry": {
         "type": "Point",
         "coordinates": [
