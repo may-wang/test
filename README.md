@@ -13,7 +13,7 @@
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 Entities used throughout the essay.
 
-Here is the watermelon.
+There are many varieties of watermelon. Some people looked at all seven species that exist in addition to the commonly known _Citrullus lanatus_ variety.
 <param ve-image
     title="Watermelon species"
     url="https://scitechdaily.com/images/Watermelon-Diversity.jpg"
