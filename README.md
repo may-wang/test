@@ -20,6 +20,13 @@ There are many varieties of watermelon. Some people looked at all seven species 
     attribution="SciTechDaily"
     fit="contain">
 
+<param ve-image
+    url="https://scitechdaily.com/images/Cultivated-Watermelon-Wild-Relatives.jpg"
+    title="Watermelon varieties"
+    attribution="SciTechDaily"
+    fit="cover">
+
+
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
