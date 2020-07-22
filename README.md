@@ -24,7 +24,7 @@ There are many varieties of watermelon. Some people looked at all seven species 
     url="https://scitechdaily.com/images/Cultivated-Watermelon-Wild-Relatives.jpg"
     title="Watermelon varieties"
     attribution="SciTechDaily"
-    fit="cover">
+    fit="contain">
 
 
 ## Subtitle
