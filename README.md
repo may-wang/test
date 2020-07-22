@@ -13,6 +13,12 @@
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 Entities used throughout the essay.
 
+Here is the watermelon.
+<param ve-image
+    title="Watermelon species"
+    url="https://scitechdaily.com/images/Watermelon-Diversity.jpg"
+    attribution="SciTechDaily">
+
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
