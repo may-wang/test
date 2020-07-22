@@ -8,7 +8,7 @@
        num-primary-sources="x"
        author="Names of Authors">
 
-<param title="Beatrix Farrand" eid="Q437714">
+<param title="Watermelon" eid="Q38645">
 <param title="cherry blossom" eid="Q871991">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
 Entities used throughout the essay.
@@ -27,7 +27,7 @@ There are many varieties of watermelon. Some people looked at all seven species 
     fit="contain">
 
 
-## Subtitle
+## Seeing (and Tasting) Red
 Code to add a location with a custom marker on a map for every paragraph in this section.
 <param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
