@@ -1,5 +1,5 @@
 <param ve-config
-       title="Title of Your Narrative"
+       title="Watermelon Test Narrative"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Cherry20190331105300.jpg/1024px-Cherry20190331105300.jpg"
        layout="vtl"
        num-maps="x"
