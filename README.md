@@ -17,7 +17,8 @@ There are many varieties of watermelon. Some people looked at all seven species 
 <param ve-image
     title="Watermelon species"
     url="https://scitechdaily.com/images/Watermelon-Diversity.jpg"
-    attribution="SciTechDaily">
+    attribution="SciTechDaily"
+    fit="contain">
 
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
