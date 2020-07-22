@@ -4,23 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "1000",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-color": "",
+        "marker-size": ""
       },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.609375,
-          -5.0909441750333855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "1500"},
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,12 +18,81 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2000"},
+        "marker-symbol": "triangle",
+        "marker-color": "#ffdbdb",
+        "marker-size": "",
+        "date": "2000 BCE"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           28.4765625,
           28.304380682962783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffdbdb",
+        "marker-size": "",
+        "marker-symbol": "campsite",
+        "date": "3000 BCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.666015625,
+          28.22697003891834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8080",
+        "marker-size": "medium",
+        "marker-symbol": "college",
+        "date": "400 BCE to 500 AD",
+        "description": "sweet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1044921875,
+          40.111688665595956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "Citron melon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.015625,
+          -9.44906182688142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cross",
+        "name": "Egusi melon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.361328125,
+          13.410994034321702
         ]
       }
     }
