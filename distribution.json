@@ -1447,8 +1447,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE",
-        "fill": "",
-        "label": "Libya",
+        "fill": ""
       },
       "geometry": {
         "type": "Point",
@@ -1544,7 +1543,8 @@
         "marker-color": "#ffd080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "650 BCE"
+        "date": "650 BCE",
+        "label": "Samos"
       },
       "geometry": {
         "type": "Point",
@@ -5994,7 +5994,8 @@
         "stroke-opacity": 1,
         "fill": "#ffd080",
         "fill-opacity": 0.5,
-        "date": "650 BCE"
+        "date": "650 BCE",
+        "label": "Samos"
       },
       "geometry": {
         "type": "Polygon",
