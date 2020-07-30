@@ -9,9 +9,8 @@
        author="Names of Authors">
 
 <param title="Watermelon" eid="Q38645">
-<param title="cherry blossom" eid="Q871991">
-<param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
-Entities used throughout the essay.
+<param title="_Citrullus lanatus_" eid="Q17507129">
+Entities defined above will be defined throughout the essay.
 
 There are many varieties of watermelon. Some people looked at all seven species that exist in addition to the commonly known _Citrullus lanatus_ variety.
 <param ve-image
