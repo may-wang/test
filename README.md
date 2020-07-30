@@ -41,7 +41,6 @@ Ironically, the origins and history of the watermelon are obscured by its common
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/visual-essays/master/docs/geojson/cities.json" date-field="inception" title="Cities">
 
 Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
 
 ## Test GIF
