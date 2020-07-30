@@ -10,7 +10,7 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "date": 1950,
-        "name": "Present-day wild watermelon populations"
+        "marker-size": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -1446,9 +1446,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "3000 BCE",
-        "type": "Seeds found",
-        "name": "Uan Muhuggiag"
+        "date": "3000 BCE"
       },
       "geometry": {
         "type": "Point",
@@ -1464,9 +1462,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "3000 BCE",
-        "name": "Quseir al-Qadim",
-        "type": "Seeds found"
+        "date": "3000 BCE"
       },
       "geometry": {
         "type": "Point",
@@ -1482,9 +1478,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "100 CE",
-        "name": "Cave near 'En Gedi ",
-        "type": "Seeds found"
+        "date": "100 CE"
       },
       "geometry": {
         "type": "Point",
@@ -1500,8 +1494,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "2500 BCE",
-        "type": "Seeds found"
+        "date": "2500 BCE"
       },
       "geometry": {
         "type": "Point",
@@ -1517,9 +1510,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "1323 BCE",
-        "name": "King Tutankhamen's tomb",
-        "type": "Seeds found"
+        "date": "1323 BCE"
       },
       "geometry": {
         "type": "Point",
@@ -1535,9 +1526,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "800 BCE",
-        "name": "Krania",
-        "type": "Seeds found"
+        "date": "800 BCE"
       },
       "geometry": {
         "type": "Point",
@@ -1553,9 +1542,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "650 BCE",
-        "name": "Samos",
-        "type": "Seeds found"
+        "date": "650 BCE"
       },
       "geometry": {
         "type": "Point",
@@ -1573,8 +1560,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1576,
-        "name": "Spanish colonists"
+        "date": 1576
       },
       "geometry": {
         "type": "Polygon",
@@ -1864,8 +1850,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1650,
-        "name": "Spanish colonists"
+        "date": 1650
       },
       "geometry": {
         "type": "Polygon",
@@ -2075,8 +2060,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1650,
-        "name": "Spanish colonists"
+        "date": 1650
       },
       "geometry": {
         "type": "Polygon",
@@ -2490,8 +2474,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1629,
-        "name": "English colonists"
+        "date": 1629
       },
       "geometry": {
         "type": "Polygon",
@@ -2677,8 +2660,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700,
-        "name": "Ocmulgee Region"
+        "date": 1700
       },
       "geometry": {
         "type": "Polygon",
@@ -2828,8 +2810,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700,
-        "name": "Conchos nation"
+        "date": 1700
       },
       "geometry": {
         "type": "Polygon",
@@ -2975,8 +2956,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700,
-        "name": "Zuni"
+        "date": 1700
       },
       "geometry": {
         "type": "Polygon",
@@ -3026,8 +3006,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700,
-        "name": "Huron"
+        "date": 1700
       },
       "geometry": {
         "type": "Polygon",
@@ -3137,8 +3116,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1750,
-        "name": "Mississippi Valley"
+        "date": 1750
       },
       "geometry": {
         "type": "Polygon",
@@ -3324,8 +3302,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1750,
-        "name": "Apache"
+        "date": 1750
       },
       "geometry": {
         "type": "Polygon",
@@ -3423,8 +3400,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1750,
-        "name": "San"
+        "date": 1750
       },
       "geometry": {
         "type": "Polygon",
@@ -3694,8 +3670,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1778,
-        "name": "Kauai"
+        "date": 1778
       },
       "geometry": {
         "type": "Polygon",
@@ -3873,8 +3848,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -4004,8 +3978,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -4223,8 +4196,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -4510,8 +4482,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1650,
-        "name": "African slaves"
+        "date": 1650
       },
       "geometry": {
         "type": "Polygon",
@@ -4589,8 +4560,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -4872,8 +4842,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -4911,8 +4880,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -4990,8 +4958,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slave"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5049,8 +5016,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5120,8 +5086,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5223,8 +5188,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5294,8 +5258,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5353,8 +5316,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5428,8 +5390,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5551,8 +5512,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
@@ -5606,8 +5566,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600,
-        "name": "African slaves"
+        "date": 1600
       },
       "geometry": {
         "type": "Polygon",
