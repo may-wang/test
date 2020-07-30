@@ -24,6 +24,7 @@ There are many varieties of watermelon. Some people looked at all seven species 
     title="Watermelon varieties"
     attribution="SciTechDaily"
     fit="contain">
+<oaram ve-map basemap="Esri_WorldPhysical" center="0,50">
 
 
 ## Seeing (and Tasting) Red
