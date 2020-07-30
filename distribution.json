@@ -1443,7 +1443,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#dcffc7",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE"
@@ -1459,7 +1459,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#dcffc7",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE"
@@ -1475,7 +1475,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ffb994",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "100 CE"
@@ -1491,7 +1491,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#dcffc7",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "2500 BCE"
@@ -1507,7 +1507,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ffed94",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "1323 BCE"
@@ -1523,7 +1523,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ffd080",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "800 BCE"
@@ -1539,7 +1539,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#ffd080",
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "650 BCE"
@@ -1555,10 +1555,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1576"
       },
@@ -1845,12 +1845,13 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1650"
+        "date": "1650",
+        "marker-color": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2055,12 +2056,13 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1650"
+        "date": "1650",
+        "marker-size": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -2469,10 +2471,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1629"
       },
@@ -2655,10 +2657,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1700"
       },
@@ -2805,10 +2807,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1700"
       },
@@ -2951,10 +2953,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1700"
       },
@@ -3001,10 +3003,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1700"
       },
@@ -3111,10 +3113,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1750"
       },
@@ -3297,10 +3299,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1750"
       },
@@ -3395,10 +3397,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1750"
       },
@@ -3665,10 +3667,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1778"
       },
@@ -3843,10 +3845,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -3973,10 +3975,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -4191,10 +4193,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -4477,10 +4479,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1650"
       },
@@ -4555,10 +4557,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -4837,10 +4839,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -4875,10 +4877,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -4953,10 +4955,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5011,10 +5013,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5081,10 +5083,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5183,10 +5185,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5253,10 +5255,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5311,10 +5313,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5385,10 +5387,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5507,10 +5509,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
@@ -5561,10 +5563,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1600"
       },
