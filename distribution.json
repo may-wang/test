@@ -10,7 +10,8 @@
         "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "",
-        "marker-size": ""
+        "marker-size": "",
+        "label": "Range of wild watermelons"
       },
       "geometry": {
         "type": "Polygon",
