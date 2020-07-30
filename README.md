@@ -35,7 +35,7 @@ Ironically, the origins and history of the watermelon are obscured by its common
 
 ## Template Time-Selector Map
 
-<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="25,50" zoom="3.5" hide-labels>
+<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="25,50" zoom="2" hide-labels>
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/visual-essays/master/docs/geojson/cities.json" date-field="inception" title="Cities">
 
 Code to add a location with a custom marker on a map for every paragraph in this section.
