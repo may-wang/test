@@ -4,10 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
+        "stroke": "#ff7070",
+        "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1950",
         "marker-size": ""
@@ -1446,7 +1446,8 @@
         "marker-color": "#dcffc7",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "3000 BCE"
+        "date": "3000 BCE",
+        "fill": ""
       },
       "geometry": {
         "type": "Point",
