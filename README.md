@@ -28,7 +28,7 @@ There are many varieties of watermelon. Some people looked at all seven species 
 
 ## Test Custom Time-Selector Map
 
-<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="25,50" zoom="1" hide-labels>
+<param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="25,50" zoom="2" hide-labels>
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/distribution.json" title="Distribution">
 
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
