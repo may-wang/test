@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1950,
+        "date": "1950",
         "marker-size": ""
       },
       "geometry": {
@@ -1560,7 +1560,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1576
+        "date": "1576"
       },
       "geometry": {
         "type": "Polygon",
@@ -1850,7 +1850,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1650
+        "date": "1650"
       },
       "geometry": {
         "type": "Polygon",
@@ -2060,7 +2060,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1650
+        "date": "1650"
       },
       "geometry": {
         "type": "Polygon",
@@ -2474,7 +2474,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1629
+        "date": "1629"
       },
       "geometry": {
         "type": "Polygon",
@@ -2660,7 +2660,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700
+        "date": "1700"
       },
       "geometry": {
         "type": "Polygon",
@@ -2810,7 +2810,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700
+        "date": "1700"
       },
       "geometry": {
         "type": "Polygon",
@@ -2956,7 +2956,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700
+        "date": "1700"
       },
       "geometry": {
         "type": "Polygon",
@@ -3006,7 +3006,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1700
+        "date": "1700"
       },
       "geometry": {
         "type": "Polygon",
@@ -3116,7 +3116,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1750
+        "date": "1750"
       },
       "geometry": {
         "type": "Polygon",
@@ -3302,7 +3302,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1750
+        "date": "1750"
       },
       "geometry": {
         "type": "Polygon",
@@ -3400,7 +3400,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1750
+        "date": "1750"
       },
       "geometry": {
         "type": "Polygon",
@@ -3670,7 +3670,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1778
+        "date": "1778"
       },
       "geometry": {
         "type": "Polygon",
@@ -3848,7 +3848,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -3978,7 +3978,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -4196,7 +4196,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -4482,7 +4482,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1650
+        "date": "1650"
       },
       "geometry": {
         "type": "Polygon",
@@ -4560,7 +4560,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -4842,7 +4842,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -4880,7 +4880,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -4958,7 +4958,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5016,7 +5016,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5086,7 +5086,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5188,7 +5188,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5258,7 +5258,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5316,7 +5316,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5390,7 +5390,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5512,7 +5512,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
@@ -5566,7 +5566,7 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "date": 1600
+        "date": "1600"
       },
       "geometry": {
         "type": "Polygon",
