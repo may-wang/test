@@ -31,7 +31,7 @@ There are many varieties of watermelon. Some people looked at all seven species 
 <param ve-map time-selector="4000 BCE:2000" basemap="Esri_WorldPhysical" center="25,50" zoom="2" hide-labels>
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/test/master/distribution.json" title="Distribution">
 
-<param title="Quseir al-Qadim" eid="Q57477018" fill="#FF0000" marker-symbol="landmark">
+<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
 Ironically, the origins and history of the watermelon are obscured by its commonness, diversity, and its most iconic component — the tender, watery flesh, which does not survive well in the archaeological record. “Watermelon” today often refers specifically to the “sweet dessert” cultivars of the Citrullus lanatus species, but the Citrullus genus includes at least six other species of watermelons, including the citron (C. amarus) and egusi (C. mucosospermus) watermelons, which at one time either were called or were classified as subspecies of C. lanatus.  Thus the taxonomy of the sweet dessert watermelon is of minimal use for tracing its origins until further genetic analysis is confirmed; instead, literary references and depictions of watermelons stretching back millennia have been used to identify and trace the evolving phenotypes of the modern watermelon.
 
@@ -41,7 +41,6 @@ Ironically, the origins and history of the watermelon are obscured by its common
 <param ve-map-layer geojson active url="https://raw.githubusercontent.com/may-wang/visual-essays/master/docs/geojson/cities.json" date-field="inception" title="Cities">
 
 Code to add a location with a custom marker on a map for every paragraph in this section.
-<param title="Washington, D. C." eid="Q61" fill="#FF0000" marker-symbol="landmark">
 
 Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
 
