@@ -45,6 +45,15 @@ Code to add a location with a custom marker on a map for every paragraph in this
 
 Entity referred to only in this ## section (including in ### child sections). Appears only once in each ## and ### section.
 
+## Test Annotated IIIF Image
+Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<param ve-storiiies id="761fh">
+<param ve-image
+    title="Roasted watermelon seeds"
+    url="https://www.picclickimg.com/00/s/ODAwWDgwMA==/z/cUIAAOSwax5Yrpqk/$/Snacks-Chinese-Food-Melon-Seeds-Guazi-_57.jpg"
+    attribution="via PicClick"
+    fit="contain">
+
 ## Test GIF
 Insert GIF Test. This watermelon displays a common fear of losing seeds, aka hair.
 <param ve-image
@@ -70,10 +79,6 @@ Below is the code for adding a map with premade Geojson overlays. The center of 
 <param ve-map prefer-geojson center="Q17" zoom="5" basemap="Esri_WorldPhysical">
 <param title="Italy" eid="Q38">
 <param title="Iran" eid="Q794">
-
-## Test Annotated IIIF Image
-Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<param ve-storiiies id="761fh">
 
 The code below is an example of how to add a custom geojson overlay. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-map center="26.8206, 30.8025" 
