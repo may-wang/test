@@ -95,6 +95,8 @@ The code below is an example of how to add a custom geojson overlay. Lorem ipsum
 
 ## Test Poem Block Quote
 
+In Korea at the turn of the twentieth century, for instance, British mine-owners turned to banning watermelons from the camps of their workers in order to prevent outbreaks of cholera. The logic behind this seemed to lay in the “immense quantities” of watermelons consumed by Korean workers, including the “rind” (probably the white pith), again suggesting a continuity between a racialised critique of excess indulgence and the moralizing of disease. The campaign turned out to be successful, whether or not that was down to the lack of watermelons is unclear.[3] Similarly, posters such as that shown here from the USSR in 1921 used watermelons to illustrate how various acts of poor hygiene could lead to cholera, from drinking unboiled water to eating unwashed fruit.
+
 > Who started the cholera?  
 I, said the Melon,  
 I am the felon,  
@@ -111,8 +113,8 @@ But it will not be long
 Ere the Germans will find,  
 That cholera loves  
 A trip on the rind.  
+>
       — **The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4**
-
 ## Subtitle
 
 The code below is an example of how to add a video from Youtube. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
