@@ -52,6 +52,16 @@ Entity referred to only in this ## section (including in ### child sections). Ap
     url="https://www.picclickimg.com/00/s/ODAwWDgwMA==/z/cUIAAOSwax5Yrpqk/$/Snacks-Chinese-Food-Melon-Seeds-Guazi-_57.jpg"
     attribution="via PicClick"
     fit="contain">
+<param ve-image
+    title="Watermelon steak"
+    url="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-01-13-at-4-09-46-pm-1578949797.png"
+    attribution="via Delish"
+    fit="contain">
+<param ve-image
+    title="Watermelon rind preserves"
+    url="https://www.watermelon.org/wp-content/uploads/2019/11/watermelon-rind-pickles.jpg"
+    attribution="via Watermelon.org"
+    fit="contain">
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Test GIF
