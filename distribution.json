@@ -10,7 +10,8 @@
         "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "",
-        "marker-size": ""
+        "marker-size": "",
+        "label": "Nile Valley region"
       },
       "geometry": {
         "type": "Polygon",
@@ -1447,7 +1448,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE",
-        "fill": ""
+        "fill": "#000000",
+        "label": "Uan Muhuggiag marker"
       },
       "geometry": {
         "type": "Point",
@@ -1463,7 +1465,8 @@
         "marker-color": "#dcffc7",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "3000 BCE"
+        "date": "3000 BCE",
+        "label": "Quseir al-Qadim marker"
       },
       "geometry": {
         "type": "Point",
@@ -1479,7 +1482,8 @@
         "marker-color": "#ffb994",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "100 CE"
+        "date": "100 CE",
+        "label": "Israel caves marker"
       },
       "geometry": {
         "type": "Point",
@@ -1495,7 +1499,8 @@
         "marker-color": "#dcffc7",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "2500 BCE"
+        "date": "2500 BCE",
+        "label": "Egyptian tomb marker"
       },
       "geometry": {
         "type": "Point",
@@ -1511,7 +1516,9 @@
         "marker-color": "#ffed94",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "1323 BCE"
+        "date": "1323 BCE",
+        "label": "King Tut tomb marker",
+        "stroke-width": ""
       },
       "geometry": {
         "type": "Point",
@@ -1527,7 +1534,8 @@
         "marker-color": "#ffd080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "800 BCE"
+        "date": "800 BCE",
+        "label": "Greece marker"
       },
       "geometry": {
         "type": "Point",
@@ -1544,7 +1552,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "650 BCE",
-        "label": ""
+        "label": "Samos island marker"
       },
       "geometry": {
         "type": "Point",
@@ -1562,7 +1570,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1576"
+        "date": "1576",
+        "label": "Florida region"
       },
       "geometry": {
         "type": "Polygon",
@@ -1853,7 +1862,8 @@
         "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1650",
-        "marker-color": ""
+        "marker-color": "",
+        "label": "Panama region"
       },
       "geometry": {
         "type": "Polygon",
@@ -2064,7 +2074,8 @@
         "fill": "#ff7070",
         "fill-opacity": 0.5,
         "date": "1650",
-        "marker-size": ""
+        "marker-size": "",
+        "label": "Peru Brazil region"
       },
       "geometry": {
         "type": "Polygon",
@@ -2478,7 +2489,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1629"
+        "date": "1629",
+        "label": "Massachusetts region"
       },
       "geometry": {
         "type": "Polygon",
@@ -2664,7 +2676,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1700"
+        "date": "1700",
+        "label": "Oculsee region"
       },
       "geometry": {
         "type": "Polygon",
@@ -2814,7 +2827,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1700"
+        "date": "1700",
+        "label": "Conchos region"
       },
       "geometry": {
         "type": "Polygon",
@@ -2960,7 +2974,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1700"
+        "date": "1700",
+        "label": "Apache region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3010,7 +3025,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1700"
+        "date": "1700",
+        "label": "Huron region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3120,7 +3136,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1750"
+        "date": "1750",
+        "label": "Mississippi region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3306,7 +3323,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1750"
+        "date": "1750",
+        "label": "Pueblo region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3404,7 +3422,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1750"
+        "date": "1750",
+        "label": "San region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3674,7 +3693,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1778"
+        "date": "1778",
+        "label": "Kauai region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3852,7 +3872,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -3982,7 +4003,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -4200,7 +4222,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -4486,7 +4509,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1650"
+        "date": "1650",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -4564,7 +4588,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -4846,7 +4871,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -4884,7 +4910,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -4962,7 +4989,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5020,7 +5048,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5090,7 +5119,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5192,7 +5222,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5262,7 +5293,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5320,7 +5352,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5394,7 +5427,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5516,7 +5550,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5570,7 +5605,8 @@
         "stroke-opacity": 1,
         "fill": "#ff7070",
         "fill-opacity": 0.5,
-        "date": "1600"
+        "date": "1600",
+        "label": "Caribbean region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5644,7 +5680,8 @@
         "stroke-opacity": 1,
         "fill": "#dcffc7",
         "fill-opacity": 0.5,
-        "date": "2500 BCE"
+        "date": "2500 BCE",
+        "label": "Libya Egypt region"
       },
       "geometry": {
         "type": "Polygon",
@@ -5995,7 +6032,7 @@
         "fill": "#ffd080",
         "fill-opacity": 0.5,
         "date": "650 BCE",
-        "label": "Samos"
+        "label": "Samos region"
       },
       "geometry": {
         "type": "Polygon",
@@ -6169,7 +6206,8 @@
         "stroke-opacity": 1,
         "fill": "#ffbdbd",
         "fill-opacity": 0.5,
-        "date": "800"
+        "date": 800,
+        "label": "India region"
       },
       "geometry": {
         "type": "Polygon",
@@ -6383,7 +6421,8 @@
         "stroke-opacity": 1,
         "fill": "#ffbdbd",
         "fill-opacity": 0.5,
-        "date": "1100"
+        "date": 1100,
+        "label": "China region"
       },
       "geometry": {
         "type": "Polygon",
@@ -6933,7 +6972,8 @@
         "stroke-opacity": 1,
         "fill": "#ffadad",
         "fill-opacity": 0.5,
-        "date": "961"
+        "date": 961,
+        "label": "Spain region"
       },
       "geometry": {
         "type": "Polygon",
@@ -7067,7 +7107,8 @@
         "stroke-opacity": 1,
         "fill": "#ffadad",
         "fill-opacity": 0.5,
-        "date": "920"
+        "date": 920,
+        "label": "Tunisia region"
       },
       "geometry": {
         "type": "Polygon",
@@ -7181,7 +7222,8 @@
         "stroke-opacity": 1,
         "fill": "#fd9b9b",
         "fill-opacity": 0.5,
-        "date": "1395"
+        "date": 1395,
+        "label": "Italy region"
       },
       "geometry": {
         "type": "Polygon",
