@@ -95,7 +95,7 @@ The code below is an example of how to add a custom geojson overlay. Lorem ipsum
 
 ## Test Poem Block Quote
 
-> “Who started the cholera?  
+> _Who started the cholera?  
 I, said the Melon,  
 I am the felon,  
 From warmth of a torrider  
@@ -110,7 +110,8 @@ Just wait; time will show.
 But it will not be long  
 Ere the Germans will find,  
 That cholera loves  
-A trip on the rind.”  
+A trip on the rind._  
+             *The Macon Telegraph (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4*
 
 ## Subtitle
 
