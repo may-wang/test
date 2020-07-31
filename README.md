@@ -50,10 +50,13 @@ Entity referred to only in this ## section (including in ### child sections). Ap
 
 Though a variety of watermelons appear throughout world cuisines, Citrullus lanatus alone enjoys no shortage of uses, especially resurging as healthy alternatives and attesting to the ongoing ubiquity of varieties and names. Seeds are roasted with a variety of oils and enjoyed as a snack in North African, Middle Eastern, and Chinese cuisines, and are entering the American healthy food scene. 
 ![Roasted watermelon seeds](https://www.picclickimg.com/00/s/ODAwWDgwMA==/z/cUIAAOSwax5Yrpqk/$/Snacks-Chinese-Food-Melon-Seeds-Guazi-_57.jpg)
+
 “Watermelon steaks” have also become popular as substitutes for meat,  accomplished by grilling the flesh until the water evaporates, creating a fillet-like consistency.
 ![Watermelon steak](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-01-13-at-4-09-46-pm-1578949797.png)
+
 Commonly in West Africa, seeds are dried and pressed into ootanga or Kalahari oil, which has also increasingly been promoted as a natural skincare product.[2] The rind has traditionally been boiled and preserved in the American South, and the flesh is blended and cooked to create the traditional Sicilian dessert gelo d’anguria, referencing an early modern name for today’s watermelon.
 ![Watermelon rind preserves](https://www.watermelon.org/wp-content/uploads/2019/11/watermelon-rind-pickles.jpg)
+
 Below is the code for adding an IIIF annotated image created through Storiiies. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Test GIF
