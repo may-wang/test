@@ -47,7 +47,6 @@ Entity referred to only in this ## section (including in ### child sections). Ap
 
 ## Test Annotated IIIF Image
 <param ve-storiiies id="761fh">
-
 Though a variety of watermelons appear throughout world cuisines, Citrullus lanatus alone enjoys no shortage of uses, especially resurging as healthy alternatives and attesting to the ongoing ubiquity of varieties and names. Seeds are roasted with a variety of oils and enjoyed as a snack in North African, Middle Eastern, and Chinese cuisines, and are entering the American healthy food scene. 
 ![Roasted watermelon seeds](https://www.picclickimg.com/00/s/ODAwWDgwMA==/z/cUIAAOSwax5Yrpqk/$/Snacks-Chinese-Food-Melon-Seeds-Guazi-_57.jpg)
 
