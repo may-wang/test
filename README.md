@@ -95,7 +95,7 @@ The code below is an example of how to add a custom geojson overlay. Lorem ipsum
 
 ## Test Poem Block Quote
 
-> _Who started the cholera?  
+> Who started the cholera?  
 I, said the Melon,  
 I am the felon,  
 From warmth of a torrider  
@@ -110,8 +110,8 @@ Just wait; time will show.
 But it will not be long  
 Ere the Germans will find,  
 That cholera loves  
-A trip on the rind._  
-             *The Macon Telegraph (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4*
+A trip on the rind.  
+      — ** The Macon _Telegraph_ (1884) ‘Carried the Cholera’, The Milwaukee Daily Sentinel, Aug. 19, p. 4**
 
 ## Subtitle
 
@@ -124,4 +124,3 @@ Code for adding a Mapwarper overlay. Lorem ipsum dolor sit amet, consectetur adi
 
 Code to add a specimen from Global Plants. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <param ve-plant-specimen eid="Q12844029" max="1" reverse="true">
-
