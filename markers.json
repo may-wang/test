@@ -9,7 +9,7 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "fill": "#000000",
-        "label": "Uan Muhuggiag marker"
+        "label": "Uan"
       },
       "geometry": {
         "type": "Point",
@@ -26,7 +26,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE",
-        "label": "Quseir al-Qadim marker"
+        "label": "Quseir"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "100 CE",
-        "label": "Israel caves marker"
+        "label": "Israel"
       },
       "geometry": {
         "type": "Point",
@@ -60,7 +60,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "2500 BCE",
-        "label": "Egyptian tomb marker",
+        "label": "Egyptian",
         "stroke-width": ""
       },
       "geometry": {
@@ -78,7 +78,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "1323 BCE",
-        "label": "King Tut tomb marker",
+        "label": "King",
         "stroke-width": ""
       },
       "geometry": {
@@ -96,7 +96,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "800 BCE",
-        "label": "Greece marker"
+        "label": "Greece"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +113,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "650 BCE",
-        "label": "Samos island marker"
+        "label": "Samos"
       },
       "geometry": {
         "type": "Point",
@@ -128,7 +128,7 @@
       "properties": {
         "stroke": "#ff7070",
         "marker-color": "#ff7070",
-        "label": "Nile Valley marker",
+        "label": "Nile",
         "fill": "",
         "date": ""
       },
@@ -145,7 +145,7 @@
       "properties": {
         "fill": "",
         "marker-color": "#ffadad",
-        "label": "Tunisia marker",
+        "label": "Tunisia",
         "date": "920"
       },
       "geometry": {
@@ -160,7 +160,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffbdbd",
-        "label": "India marker",
+        "label": "India",
         "marker-size": "",
         "date": "800"
       },
@@ -176,7 +176,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffadad",
-        "label": "Seville marker",
+        "label": "Seville",
         "marker-size": "",
         "date": "961"
       },
@@ -192,7 +192,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffbdbd",
-        "label": "China marker",
+        "label": "China",
         "date": "1100"
       },
       "geometry": {
@@ -207,7 +207,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Florida colonies marker",
+        "label": "Florida",
         "marker-size": "",
         "date": "1576"
       },
@@ -224,7 +224,7 @@
       "properties": {
         "date": "1629",
         "marker-size": "",
-        "label": "Massachusetts Bay Colony marker",
+        "label": "Massachusetts",
         "marker-color": "#ff7070",
         "marker-symbol": ""
       },
@@ -240,7 +240,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Caribbean slave trade marker",
+        "label": "Caribbean",
         "date": "1600"
       },
       "geometry": {
@@ -255,7 +255,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Caribbean slave trade marker",
+        "label": "Caribbean",
         "date": "1600"
       },
       "geometry": {
@@ -270,7 +270,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Caribbean slave trade marker",
+        "label": "Caribbean",
         "date": "1600",
         "marker-size": ""
       },
@@ -286,7 +286,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Caribbean slave trade marker",
+        "label": "Caribbean",
         "date": "1600"
       },
       "geometry": {
@@ -301,7 +301,7 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "South America maker",
+        "label": "South",
         "marker-color": "#ff7070"
       },
       "geometry": {
@@ -316,7 +316,7 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "South America marker",
+        "label": "South",
         "marker-color": "#ff7070"
       },
       "geometry": {
@@ -331,7 +331,7 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "South America marker",
+        "label": "South",
         "marker-color": "#ff7070"
       },
       "geometry": {
@@ -346,7 +346,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Oculsee marker",
+        "label": "Oculsee",
         "marker-size": "",
         "date": "1700"
       },
@@ -361,7 +361,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Conchos marker",
+        "label": "Conchos",
         "marker-color": "#ff7070",
         "marker-size": "",
         "date": "1700"
@@ -379,7 +379,7 @@
       "properties": {
         "date": "1700",
         "marker-size": "",
-        "label": "Apache marker",
+        "label": "Apache",
         "marker-color": "#ff7070"
       },
       "geometry": {
@@ -394,7 +394,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Huron marker",
+        "label": "Huron",
         "marker-size": "",
         "date": "1700"
       },
@@ -410,7 +410,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Mississippi Valley marker",
+        "label": "Mississippi",
         "date": "1750"
       },
       "geometry": {
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Pueblo marker",
+        "label": "Pueblo",
         "date": "1750",
         "marker-size": "",
         "marker-color": "#ff7070"
@@ -442,7 +442,7 @@
       "properties": {
         "date": "1750",
         "marker-size": "",
-        "label": "San marker",
+        "label": "San",
         "marker-color": "#ff7070"
       },
       "geometry": {
@@ -458,7 +458,7 @@
       "properties": {
         "date": "1778",
         "marker-size": "",
-        "label": "Hawaii marker",
+        "label": "Hawaii",
         "marker-color": "#ff7070"
       },
       "geometry": {
@@ -474,7 +474,7 @@
       "properties": {
         "date": "1395",
         "marker-size": "",
-        "label": "Italy marker",
+        "label": "Italy",
         "marker-color": "#fd9b9b"
       },
       "geometry": {
