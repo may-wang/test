@@ -42,7 +42,7 @@
         "marker-color": "#ffb994",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "100 CE",
+        "date": "100",
         "label": "Israel caves marker"
       },
       "geometry": {
@@ -130,7 +130,7 @@
         "marker-color": "#ff7070",
         "label": "Nile Valley marker",
         "fill": "",
-        "date": ""
+        "date": "1950"
       },
       "geometry": {
         "type": "Point",
@@ -301,7 +301,7 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "South America maker",
+        "label": "South America marker",
         "marker-color": "#ff7070"
       },
       "geometry": {
