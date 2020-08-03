@@ -26,7 +26,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE",
-        "label": "Quseir"
+        "id": "wd:Q57477018"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +43,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "100 CE",
-        "label": "Israel"
+        "id": "wd:Q1011544"
       },
       "geometry": {
         "type": "Point",
