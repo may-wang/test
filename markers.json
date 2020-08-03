@@ -9,7 +9,8 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "fill": "#000000",
-        "label": "Uan"
+        "label": "Uan",
+        "id": "wd:Q4352659"
       },
       "geometry": {
         "type": "Point",
