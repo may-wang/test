@@ -158,7 +158,8 @@
         "marker-color": "#ffbdbd",
         "date": "800",
         "id": "wd:Q668",
-        "description": "India; via trade"
+        "description": "India; via trade",
+        "label": "India"
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +175,7 @@
         "marker-color": "#ffadad",
         "date": "1158",
         "id": "wd:Q8717",
-        "label": "",
+        "label": "Seville, Spain",
         "description": "Seville, Spain; seeds found"
       },
       "geometry": {
@@ -191,7 +192,8 @@
         "marker-color": "#ffbdbd",
         "date": "1100",
         "id": "wd:Q29520",
-        "description": "China; via trade"
+        "description": "China; via trade",
+        "label": "China"
       },
       "geometry": {
         "type": "Point",
@@ -208,6 +210,7 @@
         "date": "1576",
         "id": "wd:Q555528",
         "description": "Spanish Florida; cultivated"
+        "label": "Spanish Florida"
       },
       "geometry": {
         "type": "Point",
@@ -222,11 +225,11 @@
       "properties": {
         "date": "1629",
         "marker-size": "",
-        "label": "",
+        "label": "Massachusetts Bay Colony",
         "marker-color": "#ff7070",
         "marker-symbol": "",
         "description": "Massachusetts Bay Colony; cultivated",
-        "id": "wd:Q1191350"
+        "id": "wd:Q1191350",
       },
       "geometry": {
         "type": "Point",
@@ -240,7 +243,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "description": "Caribbean; via slave trade",
         "id": "wd:Q664609",
@@ -258,7 +261,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "id": "wd:Q664609",
         "description": "Caribbean; via slave trade"
@@ -275,7 +278,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "marker-size": "",
         "id": "wd:Q664609",
@@ -293,7 +296,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "",
+        "label": "Circum-Caribbean",
         "date": "1600",
         "id": "wd:Q664609",
         "stroke": "",
