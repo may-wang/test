@@ -228,7 +228,7 @@
         "marker-color": "#ff7070",
         "marker-symbol": "",
         "description": "Massachusetts Bay Colony; cultivated",
-        "id": "wd:Q1191350",
+        "id": "wd:Q1191350"
       },
       "geometry": {
         "type": "Point",
@@ -1092,7 +1092,7 @@
       "properties": {
         "stroke": "#ff7070",
         "stroke-width": 3,
-        "date": "1650",
+        "date": "1650"
       },
       "geometry": {
         "type": "LineString",
