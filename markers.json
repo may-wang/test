@@ -229,7 +229,6 @@
         "marker-symbol": "",
         "description": "Massachusetts Bay Colony; cultivated",
         "id": "wd:Q1191350",
-        "label": "Massachusetts Bay Colony"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +313,6 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "Panama",
         "marker-color": "#ff7070",
         "id": "wd:Q15217022",
         "description": "Panama; cultivated"
@@ -331,7 +329,6 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "Peru",
         "marker-color": "#ff7070",
         "id": "wd:Q211435",
         "description": "Peru; cultivated"
@@ -348,7 +345,6 @@
       "type": "Feature",
       "properties": {
         "date": "1650",
-        "label": "Brazil",
         "marker-color": "#ff7070",
         "id": "wd:Q2088324",
         "description": "Brazil; cultivated"
@@ -365,7 +361,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Ocmulgee region, Georgia",
         "marker-size": "",
         "date": "1700",
         "id": "wd:Q846627",
@@ -382,7 +377,6 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Conchos people",
         "marker-color": "#ff7070",
         "marker-size": "",
         "date": "1700",
@@ -402,7 +396,6 @@
       "properties": {
         "date": "1700",
         "marker-size": "",
-        "label": "Zuni people",
         "marker-color": "#ff7070",
         "description": "Zuni people; cultivated",
         "id": "wd:Q231317",
@@ -420,7 +413,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Huron people",
         "marker-size": "",
         "date": "1700",
         "description": "Huron people; cultivated",
@@ -438,7 +430,6 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Mississippi",
         "date": "1750",
         "id": "wd:Q213396",
         "description": "Mississippi Valley; cultivated"
@@ -454,7 +445,6 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "Puebloan people",
         "date": "1750",
         "marker-size": "",
         "marker-color": "#ff7070",
@@ -1103,7 +1093,6 @@
         "stroke": "#ff7070",
         "stroke-width": 3,
         "date": "1650",
-        "label": "among indigenous populations"
       },
       "geometry": {
         "type": "LineString",
