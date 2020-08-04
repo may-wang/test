@@ -515,7 +515,7 @@
     {
       "type": "Feature",
       "properties": {
-        "date": 1395,
+        "date": "1395",
         "marker-size": "",
         "label": "",
         "marker-color": "#fd9b9b",
@@ -535,7 +535,7 @@
       "properties": {
         "id": "wd:Q5818",
         "marker-color": "#ffadad",
-        "date": 961,
+        "date": "961",
         "description": "Cordoba, Spain; seeds found"
       },
       "geometry": {
@@ -550,7 +550,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffb994",
-        "date": 200,
+        "date": "200",
         "description": "Greece",
         "id": "wd:Q41"
       },
@@ -568,7 +568,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "marker-color": "#fdaa9b",
-        "date": 510,
+        "date": "510",
         "id": "wd:Q38",
         "description": "Italy; referenced in Mazzini"
       },
@@ -583,7 +583,7 @@
     {
       "type": "Feature",
       "properties": {
-        "date": 516,
+        "date": "516",
         "marker-color": "#fdaa9b",
         "description": "France",
         "id": "wd:Q70972",
