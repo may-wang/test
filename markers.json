@@ -9,7 +9,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE",
-        "description": "Uan Muhuggiag, Libya; seeds found"
+        "description": "Uan Muhuggiag, Libya; seeds found",
+        "label": "Uan"
       },
       "geometry": {
         "type": "Point",
