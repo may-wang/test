@@ -9,7 +9,8 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "fill": "#000000",
-        "id": "wd:Q4352659"
+        "id": "wd:Q4352659",
+        "description": "Uan Muhuggiag, Libya; seeds found"
       },
       "geometry": {
         "type": "Point",
@@ -26,7 +27,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "3000 BCE",
-        "id": "wd:Q57477018"
+        "id": "wd:Q57477018",
+        "description": "Qusayr al-Qadym, Egypt; seeds found"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +45,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "100 CE",
-        "id": "wd:Q1011544"
+        "id": "wd:Q1011544",
+        "description: "'En Gedir, Israel; seeds found"
       },
       "geometry": {
         "type": "Point",
@@ -60,8 +63,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "2500 BCE",
-        "label": "Egyptian",
-        "stroke-width": ""
+        "id": "wd:Q11768",
+        "description": "Ancient Egyptian tombs; seeds found"
       },
       "geometry": {
         "type": "Point",
@@ -78,8 +81,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "1323 BCE",
-        "label": "King",
-        "stroke-width": ""
+        "id": "wd:Q835309",
+        "description": "King Tutankhamen's tomb; seeds found"
       },
       "geometry": {
         "type": "Point",
@@ -96,7 +99,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "800 BCE",
-        "label": "Greece"
+        "description": "Krania, Greece; seeds found",
+        "id": "wd:Q12716245"
       },
       "geometry": {
         "type": "Point",
@@ -113,7 +117,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "date": "650 BCE",
-        "label": "Samos"
+        "description": "Samos, Greece; seeds found",
+        "id": "wd:Q156882"
       },
       "geometry": {
         "type": "Point",
@@ -128,8 +133,8 @@
       "properties": {
         "stroke": "#ff7070",
         "marker-color": "#ff7070",
-        "label": "Nile",
-        "fill": "",
+        "description": "Nile Valley; region of found wild watermelons",
+        "id": "wd:Q3392",
         "date": ""
       },
       "geometry": {
@@ -145,8 +150,9 @@
       "properties": {
         "fill": "",
         "marker-color": "#ffadad",
-        "label": "Tunisia",
-        "date": "920"
+        "description": "Tunisia; mentioned in treatises",
+        "date": "920",
+        "id": "Q948"
       },
       "geometry": {
         "type": "Point",
@@ -160,9 +166,9 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffbdbd",
-        "label": "India",
-        "marker-size": "",
-        "date": "800"
+        "description": "India",
+        "date": "800",
+        "id": "wd:Q668"
       },
       "geometry": {
         "type": "Point",
@@ -176,9 +182,9 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffadad",
-        "label": "Seville",
-        "marker-size": "",
-        "date": "961"
+        "description": "Seville, Spain; seeds found",
+        "date": "1158",
+        "id": "wd:Q8717"
       },
       "geometry": {
         "type": "Point",
@@ -192,8 +198,9 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffbdbd",
-        "label": "China",
-        "date": "1100"
+        "description": "China",
+        "date": "1100",
+        "id": "wd:Q29520"
       },
       "geometry": {
         "type": "Point",
@@ -207,9 +214,9 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ff7070",
-        "label": "Florida",
-        "marker-size": "",
-        "date": "1576"
+        "label": "Spanish colony of Florida",
+        "date": "1576",
+        "id": "wd:Q555528"
       },
       "geometry": {
         "type": "Point",
