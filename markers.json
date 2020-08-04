@@ -175,8 +175,8 @@
         "marker-color": "#ffadad",
         "date": "1158",
         "id": "wd:Q8717",
-        "label": "Seville, Spain",
-        "description": "Seville, Spain; seeds found"
+        "description": "Seville, Spain; seeds found",
+        "label": "Seville, Spain"
       },
       "geometry": {
         "type": "Point",
@@ -209,7 +209,7 @@
         "marker-color": "#ff7070",
         "date": "1576",
         "id": "wd:Q555528",
-        "description": "Spanish Florida; cultivated"
+        "description": "Spanish Florida; cultivated",
         "label": "Spanish Florida"
       },
       "geometry": {
@@ -225,11 +225,11 @@
       "properties": {
         "date": "1629",
         "marker-size": "",
-        "label": "Massachusetts Bay Colony",
         "marker-color": "#ff7070",
         "marker-symbol": "",
         "description": "Massachusetts Bay Colony; cultivated",
         "id": "wd:Q1191350",
+        "label": "Massachusetts Bay Colony"
       },
       "geometry": {
         "type": "Point",
