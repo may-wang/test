@@ -98,24 +98,6 @@
         "marker-color": "#ffd080",
         "marker-size": "medium",
         "marker-symbol": "",
-        "date": "800 BCE",
-        "id": "wd:Q12716245",
-        "description": "Krania, Greece; seeds found"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.0440673828125,
-          39.825413103424786
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd080",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "date": "650 BCE",
         "id": "wd:Q156882",
         "description": "Samos, Greece; seeds found"
@@ -413,7 +395,8 @@
         "label": "",
         "marker-color": "#ff7070",
         "description": "Zuni people; cultivated",
-        "id": "wd:Q231317"
+        "id": "wd:Q231317",
+        "fill": ""
       },
       "geometry": {
         "type": "Point",
@@ -551,7 +534,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#ffb994",
-        "date": "200",
+        "date": 200,
         "description": "Greece",
         "id": "wd:Q41"
       },
@@ -612,6 +595,126 @@
         "coordinates": [
           -1.318359375,
           52.10650519075632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": 200
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            32.8271484375,
+            27.293689224852407
+          ],
+          [
+            32.4755859375,
+            28.497660832963472
+          ],
+          [
+            31.904296874999996,
+            29.649868677972304
+          ],
+          [
+            31.113281249999996,
+            30.751277776257812
+          ],
+          [
+            29.355468750000004,
+            32.69486597787505
+          ],
+          [
+            27.94921875,
+            34.08906131584994
+          ],
+          [
+            26.0595703125,
+            35.60371874069731
+          ],
+          [
+            24.43359375,
+            37.125286284966805
+          ],
+          [
+            22.67578125,
+            38.44498466889473
+          ],
+          [
+            22.939453125,
+            36.4566360115962
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": 200
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.69775390625,
+            38.47939467327645
+          ],
+          [
+            25.0048828125,
+            38.08268954483802
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": 200
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.32275390625,
+            33.706062655101206
+          ],
+          [
+            28.30078125,
+            31.98944183792288
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "stroke": "#ffed94",
+        "date": 200
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28.3447265625,
+            33.7243396617476
+          ],
+          [
+            30.454101562499996,
+            33.247875947924385
+          ]
         ]
       }
     }
