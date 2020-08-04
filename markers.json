@@ -475,7 +475,7 @@
       "properties": {
         "date": "1750",
         "marker-size": "",
-        "label": "",
+        "label": "San people, Kalahari Desert",
         "marker-color": "#ff7070",
         "description": "San people; cultivated",
         "id": "wd:Q172365"
@@ -493,7 +493,7 @@
       "properties": {
         "date": "1778",
         "marker-size": "",
-        "label": "",
+        "label": "Pacific Islanders",
         "marker-color": "#ff7070",
         "id": "wd:Q2065556",
         "description": "Pacific Islanders; cultivated via James Cook"
@@ -511,7 +511,7 @@
       "properties": {
         "date": "1395",
         "marker-size": "",
-        "label": "",
+        "label": "Italy",
         "marker-color": "#fd9b9b",
         "id": "wd:Q38",
         "description": "Italy; referenced in Tacuinum Sanitatis"
@@ -530,7 +530,8 @@
         "id": "wd:Q5818",
         "marker-color": "#ffadad",
         "date": "961",
-        "description": "Cordoba, Spain; seeds found"
+        "description": "Cordoba, Spain; seeds found",
+        "label": "Cordoba, Spain"
       },
       "geometry": {
         "type": "Point",
@@ -546,7 +547,8 @@
         "marker-color": "#ffb994",
         "date": 200,
         "description": "Greece",
-        "id": "wd:Q41"
+        "id": "wd:Q41",
+        "label": "Greece"
       },
       "geometry": {
         "type": "Point",
@@ -564,7 +566,8 @@
         "marker-color": "#fdaa9b",
         "date": "510",
         "id": "wd:Q38",
-        "description": "Italy; referenced in Mazzini"
+        "description": "Italy; referenced in Mazzini",
+        "label": "Italy"
       },
       "geometry": {
         "type": "Point",
@@ -582,7 +585,8 @@
         "description": "France",
         "id": "wd:Q70972",
         "marker-size": "",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "label": "France"
       },
       "geometry": {
         "type": "Point",
@@ -598,7 +602,8 @@
         "marker-color": "#ff7070",
         "date": "1597",
         "description": "England; John Gerard's Herball",
-        "id": "wd:Q179876"
+        "id": "wd:Q179876",
+        "label": "England"
       },
       "geometry": {
         "type": "Point",
