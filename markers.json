@@ -461,7 +461,7 @@
       "type": "Feature",
       "properties": {
         "label": "",
-        "date": 1750,
+        "date": "1750",
         "marker-size": "",
         "marker-color": "#ff7070",
         "id": "wd:Q852431",
