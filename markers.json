@@ -10,7 +10,7 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "description": "Uan Muhuggiag, Libya; seeds found",
-        "label": "Uan Muhuggiag"
+        "label": "Uan Muhuggiag, Libya"
       },
       "geometry": {
         "type": "Point",
@@ -28,7 +28,8 @@
         "marker-symbol": "",
         "date": "3000 BCE",
         "id": "wd:Q57477018",
-        "description": "Quseir al-Qadim, Egypt; seeds found"
+        "description": "Quseir al-Qadim, Egypt; seeds found",
+      "label": "Queseir al-Qadim, Egypt"
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +47,8 @@
         "marker-symbol": "",
         "date": "100 CE",
         "id": "wd:Q1011544",
-        "description": "'En Gedir, Israel; seeds found"
+        "description": "'En Gedir, Israel; seeds found",
+        "label": "'En Gedir, Israel"
       },
       "geometry": {
         "type": "Point",
