@@ -738,7 +738,8 @@
       "properties": {
         "stroke": "#ffbdbd",
         "stroke-width": 3,
-        "date": "800"
+        "date": "800",
+        "label": "via trade"
       },
       "geometry": {
         "type": "LineString",
@@ -855,7 +856,8 @@
       "properties": {
         "date": "1576",
         "stroke": "#ff7070",
-        "stroke-width": 3
+        "stroke-width": 3,
+        "label": "via Spanish colonists"
       },
       "geometry": {
         "type": "LineString",
@@ -1036,7 +1038,8 @@
       "properties": {
         "stroke": "#ff7070",
         "stroke-width": 3,
-        "date": "1600"
+        "date": "1600",
+        "label": "via Atlantic slave trade"
       },
       "geometry": {
         "type": "LineString",
@@ -1099,7 +1102,8 @@
       "properties": {
         "stroke": "#ff7070",
         "stroke-width": 3,
-        "date": "1650"
+        "date": "1650",
+        "label": "among indigenous populations"
       },
       "geometry": {
         "type": "LineString",
